@@ -1,3 +1,9 @@
+---
+
+## Lab Variant: 16%3=1
+Currencies
+--- 
+
 # Flask Currency Management API
 
 ## Overview
